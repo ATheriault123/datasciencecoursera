@@ -1,0 +1,11 @@
+1.
+  Downloads and assign all files to vaiables
+2.
+  combines the test and training data using row and column bind. Creating a data frame called df with all the data combined.
+3.
+  Creates a data frame using just the mean and standard deviation variables and describes the actions by using the number assinged to the action to link to the activity labels in data set actlabels
+4.
+  Gives more complete and accurate descriptions of each of the variables
+5.
+  Creates a data set that is the mean of each variable for each activity and subject
+
